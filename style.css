@@ -1,0 +1,70 @@
+body{
+    background-color: darkseagreen;
+    color: rgb(19, 16, 16);
+    font-family: Verdana, sans-serif;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+.box {
+    width: 75%;
+    height: auto;
+    border-radius: 40px;
+    padding: 40px 40px;
+    background: rgba(8, 228, 26, 0.21);
+    box-shadow: 0 4px 30px blak(59, 100, 21, 0.1);
+    -webkit-backdrop-filter: blur(25px);
+    backdrop-filter: blur(25px);
+    box-shadow: 0px 4px 10px rgba(33, 243, 6, 0.25);
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    border:palegreen 5px dotted;
+}
+h1, h2, span{    
+    font-weight: bold;
+    color: #5ac700;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+a{
+    color:black(196, 194, 194);
+    text-decoration: none;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    transition: 2s;
+}
+a:hover{
+    color:black (196, 194, 194);
+    background-color: #10d42a;
+    font-size: 1.25rem;
+    transition: 0.5s;
+    cursor: pointer;
+    opacity: 0.3;
+    color: rgb(20, 220, 63);
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+a:visited{
+    color:black(196, 194, 194)black
+}
+img{
+    align-items: center;
+    align-content: center;
+    width: 180px;
+    height: 180px;
+    
+}
+.imagens{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
